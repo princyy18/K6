@@ -9,7 +9,7 @@ export default function () {
   const url = 'http://dummyjson.com/auth/login';
   const payload = JSON.stringify({
     email: 'kminchelle',
-    password: '0lelpl8R',
+    password: '0lelplR',
   });
 
   const params = {

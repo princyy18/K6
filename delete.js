@@ -6,3 +6,4 @@ export default function () {
   const params = { headers: { 'X-MyHeader': 'k6test' } };
   http.del(url, null, params);
 }
+
